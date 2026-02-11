@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProgramDeretBilangan {
+public class DeretBilangan {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
